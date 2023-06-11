@@ -8,7 +8,7 @@ package Controlador;
 * 13/06/2023
 */
 
-public class Main_Proyecto_Algoritmos {
+public class Main {
 
 	public static void main(String[] args) {
 		
