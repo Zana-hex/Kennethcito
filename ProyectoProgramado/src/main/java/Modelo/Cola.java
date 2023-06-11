@@ -1,15 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package modelo;
+package Modelo;
+
+/**
+* Proyecto Programado #1
+* Alumnos> Gerardo Gael Rojas Ramos - Jeremy Pizarro Chaves 
+* Carnet>  			C26860  		- 		C25992
+* Profesor> Kenneth Sanchez
+* 13/06/2023
+*/
+
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ikyge
- */
 public class Cola {
 
     private NodoCola inicio, ultimo;
